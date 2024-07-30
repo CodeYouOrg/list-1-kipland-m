@@ -14,9 +14,9 @@
 # Note: python does not have a ++ operator, but += works.
 
 def match_ends(words):
-    # +++your code here+++
-    return
-
+    print("hello")
+    var1 = 1
+    return var1
 
 # B. front_x
 # Given a list of strings, return a list with the strings
